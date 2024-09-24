@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HARSH SEN</h1>
 <h3>- 🔭 I’m currently working as <a href="https://www.codeforgovtech.in/"> Code4Gov Tech  Campus Leader <a> </h2>
-
+<img align = "right" alt = "coding" width = "300" src = "https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" >
 <!-- Social Media Handles -->
 
 <h3 align="left">Connect with me:</h3>
