@@ -1,7 +1,7 @@
 # Hi 👋, I'm <a href="https://bento.me/harshsen"> HARSH SEN <a></a>
 
 ## About
-- ☁️ I'm a DevOps, MlOps, and a Cloud Native guy.
+- ☁️ I'm a DevOps and a Cloud Native guy.
 - 🧑‍🤝‍🧑 Currently building Code4GovTech an open-source Community.
 - 😌 Actively contributing to various organizations and open-source projects. 
 - 🤩 I love to speak at public events, I organize workshops, Webinars, Events to help and build communities.
@@ -14,20 +14,15 @@
 
 ```Programming Languages```
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,py,go,java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,go&theme=light)](https://skillicons.dev)
 
-```Back-End Technologies and Databases```
+```Databases```
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,appwrite,mysql,mongodb,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light)](https://skillicons.dev)
 
 ```Tools and Platforms```
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,terraform,githubactions,gitlab,bash&theme=light)](https://skillicons.dev)
-
-
-```Front-End Technologies and No-Code Tools```
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,notion,figma,blender,photoshop&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,terraform,githubactions,gitlab,bash,jenkins,nginx&theme=light)](https://skillicons.dev)
 
 ```Operating-Systems```
 
