@@ -28,7 +28,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&theme=light)](https://skillicons.dev)
 
-## My Latest Blog Posts 👇
+## Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1754333734643/38bc99b6-da37-4717-a716-25db5c71fc9b.png" alt="How to Secure and Optimize Docker: Best Practices"></td><td><a href="https://harshsen.me/how-to-secure-and-optimize-docker-best-practices"><strong>How to Secure and Optimize Docker: Best Practices</strong></a><br>Docker is the most popular containerization tool that allows you to package applications and their dependencies into lightweight, portable containers. By isolating workloads, Docker ensures that each application runs in its own secure environment (is...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1747325158762/3f51d762-20a2-42bb-980f-6bcb2637feff.png" alt="Essential Tips for Beginners in DevOps and Cloud Engineering"></td><td><a href="https://harshsen.me/essential-tips-for-beginners-in-devops-and-cloud-engineering"><strong>Essential Tips for Beginners in DevOps and Cloud Engineering</strong></a><br>What is DevOps and what exactly these folks do ?
