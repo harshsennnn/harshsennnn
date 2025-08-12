@@ -21,7 +21,7 @@
 
 ```Tools and Platforms```
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,terraform,githubactions,bash,jenkins,nginx,maven&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,bash,git,github,githubactions,jenkins,nginx,maven&theme=light)](https://skillicons.dev)
 
 ```Operating-Systems```
 
