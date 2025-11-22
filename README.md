@@ -25,7 +25,7 @@
 
 ```Operating-Systems```
 
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,arch&theme=light)](https://skillicons.dev)
 
 ## Latest Blog Posts 👇
 
