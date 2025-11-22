@@ -21,11 +21,16 @@
 
 ```Tools and Platforms```
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,bash,git,github,githubactions,jenkins,nginx,maven&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,bash,git,github,githubactions,jenkins,nginx,maven,rabbitmq,redis&theme=light)](https://skillicons.dev)
 
-```Operating-Systems```
+```Operating-Systems and Servers```
 
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,arch&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,arch,raspberrypi&theme=light)](https://skillicons.dev)
+
+```Preference```
+
+[![My Skills](https://skillicons.dev/icons?i=vscodium,vim,neovim&theme=light)](https://skillicons.dev)
+
 
 ## Latest Blog Posts 👇
 
