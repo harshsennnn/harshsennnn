@@ -6,7 +6,7 @@
 - 🤝 I love to share my knowledge and experiences through my blog - [Medium](https://medium.com/@harshsennn) and [Twitter](https://x.com/yupsharsh)
 - 📩 Reach me at [harshsennn@gmail.com](mailto:harshsennn@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=35&pause=1000&color=F76B32&width=600&left=true&vCenter=true&random=false&width=450&&lines=DevRel;DevOps;Cloud-Native)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=35&pause=1000&color=F76B32&width=600&left=true&vCenter=true&random=false&width=450&&lines=DevOps;Cloud-Native)](https://git.io/typing-svg)
 
 <!-- Languages and tools skills -->
 ## Languages and Tools:
